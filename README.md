@@ -19,3 +19,7 @@ I am interested in the historic things. There is a museum located in Hyderabad, 
 4. You can take the bus to AC Guards, take the walk to Lakdi-ka-pul, take the subway to Osmania Medical College, then take the walk to Salar Jung Museum. 
 5. Alternatively, you can take the taxi to Salar Jung Museum.
 
+* Charminar : The Charminar is a Mosque (Masjid)  constructed in 1591, is a monument located in Hyderabad.
+* Cable Bridge : The Durgam Cheruvu Cable Bridge is an extradosed bridge. The bridge is located near Inorbit Mall at Madhapur.The bridge connects Jubilee Hills with Financial District and eases traffic congestion to Madhapur across Durgam Cheruvu.
+* Tank Bund : The Tank Bund Road is a road in Secunderabad. The Tank Bund dams Hussain Sagar lake on the eastern side and connects the twin cities of Hyderabad and Secunderabad. It has become an attraction with 33 statues of famous people from the region.
+* Golconda Fort : Golconda Fort is a fortified citadel built by the Qutb Shahi dynasty (c. 1321–1687) as the capital of the Golconda Sultanate, located in Hyderabad. Because of the vicinity of diamond mines, especially Kollur Mine, Golconda flourished as a trade centre of large diamonds, known as the Golconda Diamonds. 
