@@ -18,3 +18,11 @@ There are few cities  which I am interested to visit. I will suggest others also
 | Agra | Taj Mahal | 4 day |
 
 
+---
+
+###  Pithy Quotes
+
+> Be loud about the things that are important to you. *Karen Walrond*
+
+> Good decisions come from experience. Experience comes from making bad decisions. *Mark Twain*
+
