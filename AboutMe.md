@@ -26,3 +26,28 @@ There are few cities  which I am interested to visit. I will suggest others also
 
 > Good decisions come from experience. Experience comes from making bad decisions. *Mark Twain*
 
+
+---
+
+
+### Code Fencing 
+
+>How to change the background (HTML) when a SweetAlert2 is active <https://stackoverflow.com/questions/73642113/how-to-change-the-background-html-when-a-sweetalert2-is-active>
+
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+Code snippet link <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
+
+
+
